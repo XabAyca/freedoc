@@ -13,7 +13,10 @@ Liaison (docteur/spé)
 
 ### Pour test
 Ouvrir le dossier  
-Faire ```Bundle install``  
-Lancer ```rails db:seed```
-Et lancer la console rails pour test ```rails console```
-u may want to cover:
+Faire  
+ ```Bundle install``    
+Lancer   
+```rails db:seed``  
+Et lancer la console rails pour test   
+```rails console``  
+
