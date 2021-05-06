@@ -14,9 +14,9 @@ Liaison (docteur/spé)
 ### Pour test
 Ouvrir le dossier  
 Faire  
- ```Bundle install      
+ ```Bundle install```        
 Lancer     
-```rails db:seed   
+```rails db:seed```    
 Et lancer la console rails pour test     
-```rails console  
+```rails console```   
 
