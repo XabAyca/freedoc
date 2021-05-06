@@ -6,10 +6,10 @@ Allez, on va implémenter pour de vrai ce concurrent de Doctolib dont on te parl
 
 Docteurs  
 Patients  
-Spécialitées
-Villes
-RDV
-Liaison (docteur/spé)  
+Spécialitées  
+Villes  
+RDV  
+Liaison (docteur/spé)    
 
 ### Pour test
 Ouvrir le dossier  
